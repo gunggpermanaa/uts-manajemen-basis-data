@@ -13,25 +13,25 @@ Disertakan juga script SQL untuk membuat database, tabel, serta tiga user dengan
 
 1. Clone repository ini:
    
-   git clone https://github.com/agungpermana/docker-postgres-pgadmin.git
-   cd docker-postgres-pgadmin
+- git clone https://github.com/agungpermana/docker-postgres-pgadmin.git
+- cd docker-postgres-pgadmin
    
 2. Jalankan Docker Compose:
 
-docker-compose up -d
+- docker-compose up -d
 
 3. Buka pgAdmin4 di browser:
 
-http://localhost:44093
+- http://localhost:44093
 
 4. Login dengan:
 
-Email: admin@admin.com
-Password: ifunggul
+- Email: admin@admin.com
+- Password: ifunggul
 
 5. Hubungkan ke server PostgreSQL:
 
-Host: postgres_AgungPermana
-Port: 5432
-User: postgres
-Password: ifunggul
+- Host: postgres_AgungPermana
+- Port: 5432
+- User: postgres
+- Password: ifunggul
